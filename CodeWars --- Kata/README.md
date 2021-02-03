@@ -1,5 +1,1 @@
-# Coding Kata
-
-Bundle of code kata with different difficulty level.
-
-http://codewars.com
+### Coding Kata from [Code Wars](http://codewars.com).
