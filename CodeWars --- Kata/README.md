@@ -1,1 +1,1 @@
-### Coding Kata from [Code Wars](http://codewars.com).
+## Coding Kata from [Code Wars](http://codewars.com).
