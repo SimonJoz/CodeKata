@@ -9,4 +9,4 @@
 
 Read more at: [Wikipedia](https://en.wikipedia.org/wiki/Luhn_algorithm)
 
-![PNG](https://github.com/SimonJoz/CodeKata/tree/master/Luhn%20Algorithm/Luhn%20PNG.png)
+![PNG](https://github.com/SimonJoz/CodeKata/tree/master/Luhn%20Algorithm/Luhn%20ALG.png)
