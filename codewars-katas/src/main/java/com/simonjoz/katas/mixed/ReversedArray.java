@@ -1,4 +1,4 @@
-package com.company;
+package com.company.katas;
 
 import java.util.Arrays;
 import java.util.stream.Collectors;
